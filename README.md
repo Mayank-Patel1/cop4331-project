@@ -5,12 +5,10 @@ Combines aspects of platforming and puzzle solving.
 
 Group Members: 
 - Mayank Patel
-
 - Shivani Kumar
-
 - Matthew Hubs
-
 - Jakob Germann
-
 - Devon Wilkerson
 
+Github Link:
+[Astral Teleportation](https://github.com/sounderdisc/POOPproject).
