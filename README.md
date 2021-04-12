@@ -8,4 +8,5 @@ Mayank Patel
 Shivani Kumar
 Matthew Hubs
 Jakob Germann
+Devon Wilkerson
 
