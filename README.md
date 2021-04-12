@@ -11,4 +11,4 @@ Group Members:
 - Devon Wilkerson
 
 Github Link:
-[Astral Teleportation](https://github.com/sounderdisc/POOPproject).
+[Astral Teleportation](https://github.com/sounderdisc/POOPproject)
